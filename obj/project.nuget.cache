@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dxaark/jZYQXhb1gba9UEs/6ypruW2DQaFsCrgHfKIoy5jefnTx4abLeW+3B18qIdRJmcKW2Ct7yR9JOU3Svww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ckdtj\\Projects\\TheBookOfFSharp\\TheBookOfFSharp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ckdtj\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
